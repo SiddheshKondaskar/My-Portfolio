@@ -22,8 +22,8 @@ To run the app locally, follow these steps:
 
 ## Screenshots
 <p float="left">
-  <img src="images/2.jpeg" alt="Login" width="200" height="400">
-  <img src="images/1.jpeg" alt="Signup" width="200" height="400">
+  <img src="images/2.jpeg" alt="2" width="200" height="400">
+  <img src="images/1.jpeg" alt="1" width="200" height="400">
 
 </p>
 
