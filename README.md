@@ -20,5 +20,10 @@ To run the app locally, follow these steps:
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
+## Screenshots
+<p float="left">
+  <img src="images/1.jpeg" alt="Login" width="200" height="400">
+  <img src="images/2.jpeg" alt="Signup" width="200" height="400">
 
+</p>
 
